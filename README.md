@@ -8,8 +8,8 @@
 <details>	
   <summary> Exercicios Práticos </summary>
 
-  - [Client gRPC](https://github.com/gabybonini/gRPC-Node/GRPC-01)
-  - [Chat gRPC](https://github.com/gabybonini/gRPC-Node/GRPC-02)
+  - [Client gRPC](https://github.com/gabybonini/gRPC-Node/tree/main/GRPC-Q01)
+  - [Chat gRPC](https://github.com/gabybonini/gRPC-Node/tree/main/GRPC-Q02)
  
   <br/>
 </details>
